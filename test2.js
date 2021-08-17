@@ -1,1 +1,1 @@
-(() => console.log('sss'))();
+console.log('test221112');
